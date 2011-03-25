@@ -1,0 +1,7 @@
+params	params-module.html
+params.f1	params-module.html#f1
+params.f2	params-module.html#f2
+params.f3	params-module.html#f3
+params.__package__	params-module.html#__package__
+paramsmod	paramsmod-module.html
+paramsmod.__package__	paramsmod-module.html#__package__
